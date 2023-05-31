@@ -1,4 +1,4 @@
-# treinamento-metodos-arrays
+# treinamento-métodos-arrays
 Principais tópicos do treinamento:
 - .forEach()
 - .map()
